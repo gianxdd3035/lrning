@@ -1,0 +1,12 @@
+.pr{
+    color:gray;
+}
+.pr:hover{
+    color:royalblue;
+}
+a{
+    color:royalblue;
+}
+a:hover{
+    color:darkblue;
+}
